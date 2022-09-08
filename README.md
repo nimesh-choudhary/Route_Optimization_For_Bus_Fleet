@@ -1,4 +1,3 @@
-### Route Optimization for Bus Fleet using ReactJS
 # Problem Statement
 To address the problem of school bus routing by scheduling an efficient fleet of school buses for rural school networks in which students are picked from should be their specific bus stops and are dropped at school within the constraints of
 1. The Bus maximum capacity
